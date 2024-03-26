@@ -1,4 +1,4 @@
-# Ödev 2: İşlevsel Gereksinimler
+# Ödev 2: Proje İşlevsel Gereksinimleri
 
 Bu ödevde belirlemiş olduğunuz projeniz için işlevsel gereksinimler kapsamındaki gereksinimleriniz için gereksinimlerinizi detaylandırmanız beklenmektedir.
 
